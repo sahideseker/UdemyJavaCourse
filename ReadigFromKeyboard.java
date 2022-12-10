@@ -2,7 +2,8 @@ import java.util.*;
 
 public class Udemy {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         String name;
         
         Scanner sc=new Scanner(System.in);
@@ -10,3 +11,5 @@ public class Udemy {
         name = sc.nextLine();
         
         System.out.println("Hello " + " " + name);
+    }
+}
