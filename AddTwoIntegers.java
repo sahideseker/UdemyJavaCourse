@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.util.*;
   
-  class ReadKeyboard
+  class Numbers
   {
     public static void main (String args[])
     {  
