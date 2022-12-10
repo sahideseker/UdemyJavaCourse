@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.util.*;
   
-  class Numbers
+  class Udemy
   {
     public static void main (String args[])
     {  
