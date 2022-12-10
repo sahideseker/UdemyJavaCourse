@@ -1,8 +1,6 @@
-package first;
-
 import java.util.*;
 
-public class First {
+public class Udemy {
 
     public static void main(String[] args) {
         String name;
